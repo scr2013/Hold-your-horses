@@ -1,17 +1,23 @@
 /* 
- * File:   Environment.h
+ * File:   EnvironmentImpl.h
  *
- * Created on 28 listopad 2013, 20:40
+ * Created on 28 listopad 2013, 20:53
  */
 
-#ifndef ENVIRONMENT_H
-#define	ENVIRONMENT_H
+#ifndef ENVIRONMENTIMPL_H
+#define	ENVIRONMENTIMPL_H
 
-class Environment {
+class EnvironmentImpl {
 public:
+    EnvironmentImpl();
+    EnvironmentImpl(const EnvironmentImpl& orig);
     void run();
     void stop();
+
+    virtual ~EnvironmentImpl();
+private:
+
 };
 
-#endif	/* ENVIRONMENT_H */
+#endif	/* ENVIRONMENTIMPL_H */
 
