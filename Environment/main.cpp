@@ -1,8 +1,3 @@
-/* 
- * File:   main.cpp
- *
- * Created on 28 listopad 2013, 20:28
- */
 
 #include <cstdlib>
 

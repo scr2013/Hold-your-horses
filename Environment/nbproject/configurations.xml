@@ -4,6 +4,13 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>ColisionDetectorThread.h</itemPath>
+      <itemPath>ComunicatorThread.h</itemPath>
+      <itemPath>EndGameDetectorThread.h</itemPath>
+      <itemPath>Environment.h</itemPath>
+      <itemPath>EnvironmentImpl.h</itemPath>
+      <itemPath>GUI.h</itemPath>
+      <itemPath>MontersAIThread.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -12,6 +19,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>EnvironmentImpl.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -37,6 +45,22 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="ColisionDetectorThread.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ComunicatorThread.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EndGameDetectorThread.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Environment.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EnvironmentImpl.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EnvironmentImpl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GUI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MontersAIThread.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -61,6 +85,22 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="ColisionDetectorThread.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ComunicatorThread.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EndGameDetectorThread.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Environment.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="EnvironmentImpl.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="EnvironmentImpl.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GUI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MontersAIThread.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
